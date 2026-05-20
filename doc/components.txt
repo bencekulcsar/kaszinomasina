@@ -1,0 +1,36 @@
+ILI9486 4" tft spi 480x320 LCD screen
+---------Touch
+T_IRQ
+T_OUT
+T_DIN
+T_CS
+T_CLK
+-------- NORMAL
+SDO(MISO)
+LED
+SCK
+SDI
+D/C
+RESET
+CS
+GND
+VCC
+-------------SD:
+SD_CS
+SD_MOSI
+SD_MISO
+SD_SCK
+-------------------------------------------------
+SD CARD TF card reader SPI
+--------------NORMAL
+CS
+SCK
+MOSI
+MISO
+VCC
+GND
+
+--------------------------------------------------
+DFPlayer Mini MP3 Player Modul
+16 pins, 8 pin on each side
+
