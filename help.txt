@@ -1,5 +1,0 @@
-+ read CLAUDE.md
-
-
-+ fileokat pusholgatni fel
-+ ha hiányzik bármi library amit a pico használ, githubrol felindexelni engramdra
