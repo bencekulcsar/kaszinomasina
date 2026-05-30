@@ -1,9 +1,0 @@
-----
-1. SD Card content in MP3 Module:
-----(FOLDER_NAME/FILE_NAME)
-01/0001.mp3
-----
-2. SD Card content in SD Module:
-----(FILE_NAME)
-0001.rgb
-----
