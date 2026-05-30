@@ -1,5 +1,8 @@
 ----
 ILI9486 4" tft spi 480x320 LCD screen (3.3V)
+No padding on commands or data
+18-bit colour (3 bytes per pixel)
+MADCTL 0x28 for correct landscape orientation
 ----
 Touch part:
 ----
