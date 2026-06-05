@@ -21,6 +21,13 @@ PICO 14 ---- SD Module SCK
 PICO 15 ---- SD Module MOSI
 PICO 16 ---- SD Module MISO
 PICO 17 ---- SD Module CS
+PICO 19 ---- Matrix row 0
+PICO 20 ---- Matrix row 1
+PICO 21 ---- Matrix row 2
+PICO 22 ---- Matrix column 0
+PICO 24 ---- Matrix column 1
+PICO 25 ---- Matrix column 2
+PICO 26 ---- Single button     
 PICO 36 ---- Display VCC
 PICO 36 ---- SD Module VCC
 PICO 38 ---- Display GND
