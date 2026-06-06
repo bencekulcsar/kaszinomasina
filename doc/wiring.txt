@@ -8,31 +8,32 @@ MP3 Module -- DFPlayer Mini MP3 Player Modul (5V)
 Speaker -- Basic Speaker
 ----
 
-PICO 1 ---- MP3 Module RX (1kΩ in series)
+PICO 1 ---- MP3 Module RX
 PICO 2 ---- MP3 Module TX
+PICO 3 ---- MP3 Module GND
 PICO 4 ---- Display SCK
 PICO 5 ---- Display SDI (MOSI)
 PICO 6 ---- Display MISO
 PICO 7 ---- Display CS
+PICO 8 ---- SD Module GND
 PICO 9 ---- Display D/C
 PICO 10 ---- Display RESET
-PICO 11 ---- Display LED (100Ω in series)
+PICO 11 ---- Display LED
 PICO 14 ---- SD Module SCK
 PICO 15 ---- SD Module MOSI
 PICO 16 ---- SD Module MISO
 PICO 17 ---- SD Module CS
 PICO 19 ---- Matrix row 0
 PICO 20 ---- Matrix row 1
-PICO 21 ---- Matrix row 2
-PICO 22 ---- Matrix column 0
-PICO 24 ---- Matrix column 1
-PICO 25 ---- Matrix column 2
-PICO 26 ---- Single button     
+
+PICO 22 ---- Matrix row 2
+PICO 24 ---- Matrix column 0
+PICO 25 ---- Matrix column 1
+PICO 26 ---- Single button   
+PICO 27 ---- Matrix column 2
+PICO 28 ---- Display GND
 PICO 36 ---- Display VCC
 PICO 36 ---- SD Module VCC
-PICO 38 ---- Display GND
-PICO 38 ---- SD Module GND
-PICO 38 ---- MP3 Module GND
 PICO 39 ---- MP3 Module VCC
 MP3 Module pin 6 ---- Speaker +
 MP3 Module pin 8 ---- Speaker -
